@@ -1,0 +1,21 @@
+List Fitur:
+- Program Olahraga
+- Chatbot AI
+
+Atur Pola Makan
+1. Kurangi makanan berlemak tinggi seperti gorengan, junk food, mentega, dan makanan olahan. 
+2. Batasi gula (minuman manis, kue, dessert) karena mempercepat penumpukan lemak visceral. 
+3. Kurangi karbohidrat olahan seperti nasi putih, roti putih, dan pasta olahan. 
+4. Perbanyak serat larut (apel, alpukat, jambu, gandum, sayuran hijau). Serat membantu kenyang lebih lama dan menurunkan lemak perut. 
+5. Tingkatkan protein (ikan, ayam tanpa kulit, telur, susu rendah lemak) untuk metabolisme dan massa otot.
+
+Olahraga yang Paling Efektif
+1. Lakukan minimal 30 menit per hari, 5 kali seminggu.
+2. Jenis olahraga yang direkomendasikan:
+   - Jogging
+   - Jalan cepat
+   - Push up
+   - Sit up
+   - Plank
+   - Angkat beban
+Semua aktivitas ini membantu membakar kalori dan mengurangi lemak visceral.
